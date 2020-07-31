@@ -1,0 +1,26 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Posts on Jutopia</title>
+   <link>https://jackyhuang85.github.io/posts/</link>
+   <description>Recent content in Posts on Jutopia</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <copyright>Copyright &amp;copy; 2020 - Jacky Huang</copyright>
+   <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
+   
+       <atom:link href="https://jackyhuang85.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Feature Image</title>
+       <link>https://jackyhuang85.github.io/posts/new/</link>
+       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
+       
+       <guid>https://jackyhuang85.github.io/posts/new/</guid>
+       <description>&lt;p&gt;The Hugo Kiera theme now supports featured images. To use the feature, set the &lt;code&gt;images&lt;/code&gt; parameter in a page&amp;rsquo;s frontmatter.&lt;/p&gt;
+&lt;p&gt;(Note that this is required to be an array, even though only the first image is used. This is to provide compatability with the built-in &lt;a href=&#34;https://gohugo.io/templates/internal/#twitter-cards&#34;&gt;Twitter Card&lt;/a&gt; shortcode.)&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
+</rss>
